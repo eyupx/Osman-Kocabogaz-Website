@@ -1,0 +1,87 @@
+body{
+    background-color: #E7E6E6;
+}
+.navbar{
+    font-family: 'Trebuchet MS';
+    font-size: 25px;
+    background-color: #E7E6E6;
+}
+.yazi1{
+    font-family: 'Tahoma';
+    font-size: 60px;
+    margin-top: 200px;
+}
+.yazi2{
+    font-family: 'Arial';
+    font-size: 50px;
+    margin-top: 30px;
+}
+.hakkimda{
+    font-family:'Arial';
+    font-size: 25px;
+      
+}
+
+.temelkavram{
+    margin-top: 20px;
+    text-align: center;
+    font-size: 30px;
+}
+.kavram{
+    row-gap: 10px;
+}
+.oku{
+    font-size: 35px;
+}
+section {
+    padding: 50px 0;
+}
+
+  h2 {
+    font-size: 2.5rem;
+    color: #343a40;
+  }
+
+  h4 {
+    color: #343a40;
+  }
+
+  p {
+    font-size: 1.3rem;
+    color: #000000;
+  }
+
+  .mardin {
+    background-color: #e9ecef;
+    border-radius: 15px;
+    padding: 20px;
+  }
+
+  .roma {
+    background-color: #e9ecef;
+    border-radius: 15px;
+    padding: 20px;
+  }
+
+  img {
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+    max-width: 100%;
+    height: auto;
+  }
+  #iletisim {
+    background-color: #f8f9fa;
+    padding: 50px 0;
+  }
+
+  .form-container {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+  }
+  .map-container {
+    border-radius: 10px;
+    overflow: hidden;
+  }
+  
